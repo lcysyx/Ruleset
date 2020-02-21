@@ -5,6 +5,58 @@ IP-CIDR,172.16.0.0/12
 IP-CIDR,127.0.0.0/8
 IP-CIDR,100.64.0.0/10
 
+# My China Domains List
+# > 115
+DOMAIN-SUFFIX,115.com
+# > SCU Email
+DOMAIN-SUFFIX,icoremail.net
+# > Xiaomi Store
+DOMAIN-SUFFIX,mi.com
+# > Bank
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,95516.com
+# > China Unicom
+DOMAIN-SUFFIX,10010.com
+# > 360
+DOMAIN-SUFFIX,so.com
+DOMAIN-SUFFIX,360.com
+DOMAIN-SUFFIX,360.cn
+# > Baidu
+DOMAIN-SUFFIX,shifen.com
+# > Youdao
+DOMAIN-SUFFIX,youdao.com
+# > 中国大学MOOC
+DOMAIN-SUFFIX,icourse163.org
+# > 饿了么
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,elemecdn.com
+# > 58同城
+DOMAIN-SUFFIX,58.com
+# > 小红书
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+# > 友盟
+DOMAIN-SUFFIX,umeng.com
+# > Justalk
+DOMAIN-SUFFIX,justalk.com
+DOMAIN-SUFFIX,justalkcloud.com
+# > 超星学习通
+DOMAIN-SUFFIX,chaoxing.com
+DOMAIN-SUFFIX,aichaoxing.com
+# > CNKI知网
+DOMAIN-SUFFIX,cnki.net
+# > IT博客
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,cnblogs.com
+DOMAIN-SUFFIX,51cto.com
+DOMAIN-SUFFIX,jianshu.com
+# > 码云
+DOMAIN-SUFFIX,gitee.com
+# > 阿里云
+DOMAIN-SUFFIX,aliyun.com
+
 # China Area Network
 # > 360
 DOMAIN-SUFFIX,qhres.com
