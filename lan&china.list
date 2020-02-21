@@ -56,6 +56,8 @@ DOMAIN-SUFFIX,jianshu.com
 DOMAIN-SUFFIX,gitee.com
 # > 阿里云
 DOMAIN-SUFFIX,aliyun.com
+# > ASUS Router
+DOMAIN,router.asus.com
 
 # China Area Network
 # > 360
