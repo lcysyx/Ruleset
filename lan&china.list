@@ -35,30 +35,30 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
 # > Apple
-DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,apple.co
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,appstore.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN,www-cdn.icloud.com.akadns.net
+# DOMAIN-SUFFIX,aaplimg.com
+# DOMAIN-SUFFIX,apple.co
+# DOMAIN-SUFFIX,apple.com
+# DOMAIN-SUFFIX,apple-cloudkit.com
+# DOMAIN-SUFFIX,appstore.com
+# DOMAIN-SUFFIX,cdn-apple.com
+# DOMAIN-SUFFIX,crashlytics.com
+# DOMAIN-SUFFIX,icloud.com
+# DOMAIN-SUFFIX,icloud-content.com
+# DOMAIN-SUFFIX,me.com
+# DOMAIN-SUFFIX,mzstatic.com
+# DOMAIN,www-cdn.icloud.com.akadns.net
 # > Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 # > bilibili
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,hdslb.com
+# DOMAIN-SUFFIX,acgvideo.com
+# DOMAIN-SUFFIX,biliapi.com
+# DOMAIN-SUFFIX,biliapi.net
+# DOMAIN-SUFFIX,bilibili.com
+# DOMAIN-SUFFIX,bilibili.tv
+# DOMAIN-SUFFIX,hdslb.com
 # > Blizzard
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,battle.net
@@ -114,15 +114,15 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,xiaomi.com
 # > Microsoft
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,s-microsoft.com
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN,officecdn-microsoft-com.akamaized.net
+# DOMAIN-SUFFIX,microsoft.com
+# DOMAIN-SUFFIX,msecnd.net
+# DOMAIN-SUFFIX,office365.com
+# DOMAIN-SUFFIX,outlook.com
+# DOMAIN-SUFFIX,s-microsoft.com
+# DOMAIN-SUFFIX,visualstudio.com
+# DOMAIN-SUFFIX,windows.com
+# DOMAIN-SUFFIX,windowsupdate.com
+# DOMAIN,officecdn-microsoft-com.akamaized.net
 # > NetEase
 USER-AGENT,NeteaseMusic*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
@@ -147,14 +147,14 @@ DOMAIN-SUFFIX,sogo.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
 # > Steam
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
-DOMAIN-SUFFIX,steamstat.us
+# DOMAIN-SUFFIX,steampowered.com
+# DOMAIN-SUFFIX,steam-chat.com
+# DOMAIN-SUFFIX,steamgames.com
+# DOMAIN-SUFFIX,steamusercontent.com
+# DOMAIN-SUFFIX,steamcontent.com
+# DOMAIN-SUFFIX,steamstatic.com
+# DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+# DOMAIN-SUFFIX,steamstat.us
 # > Tencent
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,WeChat*
@@ -167,14 +167,14 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencent-cloud.net
 # > YYeTs
-USER-AGENT,YYeTs*
-DOMAIN-SUFFIX,jstucdn.com
-DOMAIN-SUFFIX,zimuzu.io
-DOMAIN-SUFFIX,zimuzu.tv
-DOMAIN-SUFFIX,zmz2019.com
-DOMAIN-SUFFIX,zmzapi.com
-DOMAIN-SUFFIX,zmzapi.net
-DOMAIN-SUFFIX,zmzfile.com
+# USER-AGENT,YYeTs*
+# DOMAIN-SUFFIX,jstucdn.com
+# DOMAIN-SUFFIX,zimuzu.io
+# DOMAIN-SUFFIX,zimuzu.tv
+# DOMAIN-SUFFIX,zmz2019.com
+# DOMAIN-SUFFIX,zmzapi.com
+# DOMAIN-SUFFIX,zmzapi.net
+# DOMAIN-SUFFIX,zmzfile.com
 # > Content Delivery Network
 DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,ccgslb.net
@@ -184,213 +184,314 @@ DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,staticdn.net
 DOMAIN-SUFFIX,wangsu.com
 # > IP Query
+DOMAIN-SUFFIX,ip.cn
+DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ipip.net
-DOMAIN-SUFFIX,ip.la
+# DOMAIN-SUFFIX,ip.la
 DOMAIN-SUFFIX,ip-cdn.com
-DOMAIN-SUFFIX,ipv6-test.com
-DOMAIN-SUFFIX,test-ipv6.com
-DOMAIN-SUFFIX,whatismyip.com
+# DOMAIN-SUFFIX,ipv6-test.com
+# DOMAIN-SUFFIX,test-ipv6.com
+# DOMAIN-SUFFIX,whatismyip.com
 # > Speed Test
 # DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,netspeedtestmaster.com
-DOMAIN,speedtest.macpaw.com
+# DOMAIN-SUFFIX,netspeedtestmaster.com
+# DOMAIN,speedtest.macpaw.com
 # > Private Tracker
-DOMAIN-SUFFIX,awesome-hd.me
-DOMAIN-SUFFIX,broadcasthe.net
-DOMAIN-SUFFIX,chdbits.co
-DOMAIN-SUFFIX,classix-unlimited.co.uk
-DOMAIN-SUFFIX,empornium.me
-DOMAIN-SUFFIX,gazellegames.net
-DOMAIN-SUFFIX,hdchina.org
-DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,icetorrent.org
-DOMAIN-SUFFIX,jpopsuki.eu
-DOMAIN-SUFFIX,keepfrds.com
-DOMAIN-SUFFIX,madsrevolution.net
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,nanyangpt.com
-DOMAIN-SUFFIX,ncore.cc
-DOMAIN-SUFFIX,open.cd
-DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,passthepopcorn.me
-DOMAIN-SUFFIX,privatehd.to
-DOMAIN-SUFFIX,redacted.ch
-DOMAIN-SUFFIX,springsunday.net
-DOMAIN-SUFFIX,tjupt.org
-DOMAIN-SUFFIX,totheglory.im
+# DOMAIN-SUFFIX,awesome-hd.me
+# DOMAIN-SUFFIX,broadcasthe.net
+# DOMAIN-SUFFIX,chdbits.co
+# DOMAIN-SUFFIX,classix-unlimited.co.uk
+# DOMAIN-SUFFIX,empornium.me
+# DOMAIN-SUFFIX,gazellegames.net
+# DOMAIN-SUFFIX,hdchina.org
+# DOMAIN-SUFFIX,hdsky.me
+# DOMAIN-SUFFIX,icetorrent.org
+# DOMAIN-SUFFIX,jpopsuki.eu
+# DOMAIN-SUFFIX,keepfrds.com
+# DOMAIN-SUFFIX,madsrevolution.net
+# DOMAIN-SUFFIX,m-team.cc
+# DOMAIN-SUFFIX,nanyangpt.com
+# DOMAIN-SUFFIX,ncore.cc
+# DOMAIN-SUFFIX,open.cd
+# DOMAIN-SUFFIX,ourbits.club
+# DOMAIN-SUFFIX,passthepopcorn.me
+# DOMAIN-SUFFIX,privatehd.to
+# DOMAIN-SUFFIX,redacted.ch
+# DOMAIN-SUFFIX,springsunday.net
+# DOMAIN-SUFFIX,tjupt.org
+# DOMAIN-SUFFIX,totheglory.im
 # > Scholar
-DOMAIN-SUFFIX,acm.org
-DOMAIN-SUFFIX,acs.org
-DOMAIN-SUFFIX,aip.org
-DOMAIN-SUFFIX,ams.org
-DOMAIN-SUFFIX,annualreviews.org
-DOMAIN-SUFFIX,aps.org
-DOMAIN-SUFFIX,ascelibrary.org
-DOMAIN-SUFFIX,asm.org
-DOMAIN-SUFFIX,asme.org
-DOMAIN-SUFFIX,astm.org
-DOMAIN-SUFFIX,bmj.com
-DOMAIN-SUFFIX,cambridge.org
-DOMAIN-SUFFIX,cas.org
-DOMAIN-SUFFIX,clarivate.com
-DOMAIN-SUFFIX,ebscohost.com
-DOMAIN-SUFFIX,emerald.com
-DOMAIN-SUFFIX,engineeringvillage.com
-DOMAIN-SUFFIX,icevirtuallibrary.com
-DOMAIN-SUFFIX,ieee.org
-DOMAIN-SUFFIX,imf.org
-DOMAIN-SUFFIX,iop.org
-DOMAIN-SUFFIX,jamanetwork.com
-DOMAIN-SUFFIX,jhu.edu
-DOMAIN-SUFFIX,jstor.org
-DOMAIN-SUFFIX,karger.com
-DOMAIN-SUFFIX,libguides.com
-DOMAIN-SUFFIX,madsrevolution.net
-DOMAIN-SUFFIX,mpg.de
-DOMAIN-SUFFIX,myilibrary.com
-DOMAIN-SUFFIX,nature.com
-DOMAIN-SUFFIX,oecd-ilibrary.org
-DOMAIN-SUFFIX,osapublishing.org
-DOMAIN-SUFFIX,oup.com
-DOMAIN-SUFFIX,ovid.com
-DOMAIN-SUFFIX,oxfordartonline.com
-DOMAIN-SUFFIX,oxfordbibliographies.com
-DOMAIN-SUFFIX,oxfordmusiconline.com
-DOMAIN-SUFFIX,pnas.org
-DOMAIN-SUFFIX,proquest.com
-DOMAIN-SUFFIX,rsc.org
-DOMAIN-SUFFIX,sagepub.com
-DOMAIN-SUFFIX,sciencedirect.com
-DOMAIN-SUFFIX,sciencemag.org
-DOMAIN-SUFFIX,scopus.com
-DOMAIN-SUFFIX,siam.org
-DOMAIN-SUFFIX,spiedigitallibrary.org
-DOMAIN-SUFFIX,springer.com
-DOMAIN-SUFFIX,springerlink.com
-DOMAIN-SUFFIX,tandfonline.com
-DOMAIN-SUFFIX,un.org
-DOMAIN-SUFFIX,uni-bielefeld.de
-DOMAIN-SUFFIX,webofknowledge.com
-DOMAIN-SUFFIX,westlaw.com
-DOMAIN-SUFFIX,wiley.com
-DOMAIN-SUFFIX,worldbank.org
-DOMAIN-SUFFIX,worldscientific.com
+# DOMAIN-SUFFIX,acm.org
+# DOMAIN-SUFFIX,acs.org
+# DOMAIN-SUFFIX,aip.org
+# DOMAIN-SUFFIX,ams.org
+# DOMAIN-SUFFIX,annualreviews.org
+# DOMAIN-SUFFIX,aps.org
+# DOMAIN-SUFFIX,ascelibrary.org
+# DOMAIN-SUFFIX,asm.org
+# DOMAIN-SUFFIX,asme.org
+# DOMAIN-SUFFIX,astm.org
+# DOMAIN-SUFFIX,bmj.com
+# DOMAIN-SUFFIX,cambridge.org
+# DOMAIN-SUFFIX,cas.org
+# DOMAIN-SUFFIX,clarivate.com
+# DOMAIN-SUFFIX,ebscohost.com
+# DOMAIN-SUFFIX,emerald.com
+# DOMAIN-SUFFIX,engineeringvillage.com
+# DOMAIN-SUFFIX,icevirtuallibrary.com
+# DOMAIN-SUFFIX,ieee.org
+# DOMAIN-SUFFIX,imf.org
+# DOMAIN-SUFFIX,iop.org
+# DOMAIN-SUFFIX,jamanetwork.com
+# DOMAIN-SUFFIX,jhu.edu
+# DOMAIN-SUFFIX,jstor.org
+# DOMAIN-SUFFIX,karger.com
+# DOMAIN-SUFFIX,libguides.com
+# DOMAIN-SUFFIX,madsrevolution.net
+# DOMAIN-SUFFIX,mpg.de
+# DOMAIN-SUFFIX,myilibrary.com
+# DOMAIN-SUFFIX,nature.com
+# DOMAIN-SUFFIX,oecd-ilibrary.org
+# DOMAIN-SUFFIX,osapublishing.org
+# DOMAIN-SUFFIX,oup.com
+# DOMAIN-SUFFIX,ovid.com
+# DOMAIN-SUFFIX,oxfordartonline.com
+# DOMAIN-SUFFIX,oxfordbibliographies.com
+# DOMAIN-SUFFIX,oxfordmusiconline.com
+# DOMAIN-SUFFIX,pnas.org
+# DOMAIN-SUFFIX,proquest.com
+# DOMAIN-SUFFIX,rsc.org
+# DOMAIN-SUFFIX,sagepub.com
+# DOMAIN-SUFFIX,sciencedirect.com
+# DOMAIN-SUFFIX,sciencemag.org
+# DOMAIN-SUFFIX,scopus.com
+# DOMAIN-SUFFIX,siam.org
+# DOMAIN-SUFFIX,spiedigitallibrary.org
+# DOMAIN-SUFFIX,springer.com
+# DOMAIN-SUFFIX,springerlink.com
+# DOMAIN-SUFFIX,tandfonline.com
+# DOMAIN-SUFFIX,un.org
+# DOMAIN-SUFFIX,uni-bielefeld.de
+# DOMAIN-SUFFIX,webofknowledge.com
+# DOMAIN-SUFFIX,westlaw.com
+# DOMAIN-SUFFIX,wiley.com
+# DOMAIN-SUFFIX,worldbank.org
+# DOMAIN-SUFFIX,worldscientific.com
 # > Other
+# >> CN域名
 DOMAIN-SUFFIX,cn
+# >> Cameara 360
 DOMAIN-SUFFIX,360in.com
-DOMAIN-SUFFIX,51ym.me
-DOMAIN-SUFFIX,8686c.com
-DOMAIN-SUFFIX,abchina.com
-DOMAIN-SUFFIX,accuweather.com
-DOMAIN-SUFFIX,aicoinstorge.com
-DOMAIN-SUFFIX,air-matters.com
-DOMAIN-SUFFIX,air-matters.io
-DOMAIN-SUFFIX,aixifan.com
-DOMAIN-SUFFIX,amd.com
-DOMAIN-SUFFIX,b612.net
-DOMAIN-SUFFIX,bdatu.com
-DOMAIN-SUFFIX,beitaichufang.com
-DOMAIN-SUFFIX,bjango.com
-DOMAIN-SUFFIX,booking.com
-DOMAIN-SUFFIX,bstatic.com
-DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,camera360.com
+# >> 易码 - 手机短信验证码接收平台
+DOMAIN-SUFFIX,51ym.me
+# >> CDN
+DOMAIN-SUFFIX,8686c.com
+# >> 中国农业银行
+DOMAIN-SUFFIX,abchina.com
+# >> AccuWeather
+# DOMAIN-SUFFIX,accuweather.com
+# >> 数字货币
+# DOMAIN-SUFFIX,aicoinstorge.com
+# >> 空气质量
+# DOMAIN-SUFFIX,air-matters.com
+# DOMAIN-SUFFIX,air-matters.io
+# >> AcFun
+DOMAIN-SUFFIX,aixifan.com
+# >> AMD
+# DOMAIN-SUFFIX,amd.com
+# >> B612 日本IP
+# DOMAIN-SUFFIX,b612.net
+# >> 国家地理 - 每日精选
+DOMAIN-SUFFIX,bdatu.com
+# >> 贝太厨房
+DOMAIN-SUFFIX,beitaichufang.com
+# >> bjango
+# DOMAIN-SUFFIX,bjango.com
+# >> Booking
+# DOMAIN-SUFFIX,booking.com
+# DOMAIN-SUFFIX,bstatic.com
+# >> 财联社
+DOMAIN-SUFFIX,cailianpress.com
+# >> 中国搜索
 DOMAIN-SUFFIX,chinaso.com
-DOMAIN-SUFFIX,chua.pro
-DOMAIN-SUFFIX,chuimg.com
+# >> 影音– Conners🥝Hua 无法访问
+# DOMAIN-SUFFIX,chua.pro
+# >> 无法访问
+# DOMAIN-SUFFIX,chuimg.com
+# >> 春雨医生
 DOMAIN-SUFFIX,chunyu.mobi
+# >> 触手直播
 DOMAIN-SUFFIX,chushou.tv
+# >> 招商银行
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
+# >> 携程
 DOMAIN-SUFFIX,ctrip.com
+# >> 东方财富网
 DOMAIN-SUFFIX,dfcfw.com
-DOMAIN-SUFFIX,docschina.org
+DOMAIN-SUFFIX,eastmoney.com
+# >> 印记中文 香港IP
+# DOMAIN-SUFFIX,docschina.org
+# >> 豆瓣
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
+# >> 斗鱼
 DOMAIN-SUFFIX,douyu.com
+# >> 丁香园
 DOMAIN-SUFFIX,dxycdn.com
-DOMAIN-SUFFIX,dytt8.net
-DOMAIN-SUFFIX,eastmoney.com
+# >> 电影天堂 美国IP
+# DOMAIN-SUFFIX,dytt8.net
+# >> 欧路软件
 DOMAIN-SUFFIX,eudic.net
+# >> 威锋网
 DOMAIN-SUFFIX,feng.com
+# >> 数美科技
 DOMAIN-SUFFIX,fengkongcloud.com
+# >> 法语助手
 DOMAIN-SUFFIX,frdic.com
-DOMAIN-SUFFIX,futu5.com
+# >> 富途证券 香港IP
+# DOMAIN-SUFFIX,futu5.com
+# >> 富途牛牛
 DOMAIN-SUFFIX,futunn.com
-DOMAIN-SUFFIX,gandi.net
+# >> Gandi.net 域名注册
+# DOMAIN-SUFFIX,gandi.net
+# >> 微店
 DOMAIN-SUFFIX,geilicdn.com
-DOMAIN-SUFFIX,getpricetag.com
+DOMAIN-SUFFIX,weidian.com
+# >> Price Tag
+# DOMAIN-SUFFIX,getpricetag.com
+# >> 快手
 DOMAIN-SUFFIX,gifshow.com
+# >> 德语助手
 DOMAIN-SUFFIX,godic.net
+# >> 华为云空间
 DOMAIN-SUFFIX,hicloud.com
+# >> 红袖添香
 DOMAIN-SUFFIX,hongxiu.com
-DOMAIN-SUFFIX,hostbuf.com
+# >> Unknown
+# DOMAIN-SUFFIX,hostbuf.com
+# >> 虎嗅
 DOMAIN-SUFFIX,huxiucdn.com
+# >> 虎牙
 DOMAIN-SUFFIX,huya.com
+# >> Infinity新标签页
 DOMAIN-SUFFIX,infinitynewtab.com
+# >> IT之家
 DOMAIN-SUFFIX,ithome.com
-DOMAIN-SUFFIX,java.com
-DOMAIN-SUFFIX,jidian.im
+# >> Java
+# DOMAIN-SUFFIX,java.com
+# >> Hello World
+# DOMAIN-SUFFIX,jidian.im
+# >> 开眼视频
 DOMAIN-SUFFIX,kaiyanapp.com
-DOMAIN-SUFFIX,kaspersky-labs.com
+# >> 卡巴斯基
+# DOMAIN-SUFFIX,kaspersky-labs.com
+# >> Keep CDN
 DOMAIN-SUFFIX,keepcdn.com
+# >> 快看漫画
 DOMAIN-SUFFIX,kkmh.com
+# >> LinkedIn CDN
 DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,loli.net
+# >> LinkedIn 美国IP
+# DOMAIN-SUFFIX,linkedin.com
+# >> 图床
+# DOMAIN-SUFFIX,loli.net
+# >> Unknown 中国IP
 DOMAIN-SUFFIX,luojilab.com
+# >> 猫眼电影
 DOMAIN-SUFFIX,maoyan.com
+# >> Unknown 中国IP
 DOMAIN-SUFFIX,maoyun.tv
+# >> 美团
 DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,sankuai.com
+# >> 摩拜
 DOMAIN-SUFFIX,mobike.com
-DOMAIN-SUFFIX,moke.com
+# >> 墨客
+# DOMAIN-SUFFIX,moke.com
+# >> 幕布 - 大纲笔记
 DOMAIN-SUFFIX,mubu.com
+# >> ZAKER
 DOMAIN-SUFFIX,myzaker.com
-DOMAIN-SUFFIX,nim-lang-cn.org
-DOMAIN-SUFFIX,nvidia.com
-DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
+# >> Nim中文社区
+# DOMAIN-SUFFIX,nim-lang-cn.org
+# >> Nvidia
+# DOMAIN-SUFFIX,nvidia.com
+# >> Oracle
+# DOMAIN-SUFFIX,oracle.com
+# >> PayPal
+# DOMAIN-SUFFIX,paypal.com
+# DOMAIN-SUFFIX,paypalobjects.com
+# >> 好奇心日报
 DOMAIN-SUFFIX,qdaily.com
+# >> 起点中文网
 DOMAIN-SUFFIX,qidian.com
+# >> 穷游网
 DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,qyerstatic.com
-DOMAIN-SUFFIX,raychase.net
+# >> 四火的唠叨（一个博客） 香港IP
+# DOMAIN-SUFFIX,raychase.net
+# >> 融云
 DOMAIN-SUFFIX,ronghub.com
-DOMAIN-SUFFIX,ruguoapp.com
+# >> 即刻APP 已凉
+# DOMAIN-SUFFIX,ruguoapp.com
+# >> Unknown 中国IP
 DOMAIN-SUFFIX,s-reader.com
-DOMAIN-SUFFIX,sankuai.com
-DOMAIN-SUFFIX,scomper.me
-DOMAIN-SUFFIX,seafile.com
-DOMAIN-SUFFIX,sm.ms
+# >> 一个博客 日本IP
+# DOMAIN-SUFFIX,scomper.me
+# >> seafile 美国IP
+# DOMAIN-SUFFIX,seafile.com
+# >> 图床 日本IP
+# DOMAIN-SUFFIX,sm.ms
+# >> 什么值得买
 DOMAIN-SUFFIX,smzdm.com
-DOMAIN-SUFFIX,snapdrop.net
+# >> Snapdrop 德国IP
+# DOMAIN-SUFFIX,snapdrop.net
+# >> 少年文学网
 DOMAIN-SUFFIX,snwx.com
+# >> 少数派
 DOMAIN-SUFFIX,sspai.com
+# >> 大公网
 DOMAIN-SUFFIX,takungpao.com
-DOMAIN-SUFFIX,teamviewer.com
+# >> teamviewer
+# DOMAIN-SUFFIX,teamviewer.com
+# >> 天眼查
 DOMAIN-SUFFIX,tianyancha.com
-DOMAIN-SUFFIX,udacity.com
-DOMAIN-SUFFIX,uning.com
-DOMAIN-SUFFIX,vmware.com
-DOMAIN-SUFFIX,weather.com
-DOMAIN-SUFFIX,weico.cc
-DOMAIN-SUFFIX,weidian.com
+# >> 优达学城 日本IP
+# DOMAIN-SUFFIX,udacity.com
+# >> Unknown 日本IP
+# DOMAIN-SUFFIX,uning.com
+# >> VMware
+# DOMAIN-SUFFIX,vmware.com
+# >> Weather.com
+# DOMAIN-SUFFIX,weather.com
+# >> 无法访问
+# DOMAIN-SUFFIX,weico.cc
+# >> 下厨房
 DOMAIN-SUFFIX,xiachufang.com
+# >> 喜马拉雅
 DOMAIN-SUFFIX,ximalaya.com
-DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xmcdn.com
+# >> 新华社
+DOMAIN-SUFFIX,xinhuanet.com
+# >> 拼多多
 DOMAIN-SUFFIX,yangkeduo.com
-DOMAIN-SUFFIX,zhangzishi.cc
+# >> 涨姿势 无法访问
+# DOMAIN-SUFFIX,zhangzishi.cc
+# >> 知乎
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
-DOMAIN-SUFFIX,zhuihd.com
-DOMAIN,download.jetbrains.com
+# >> 追高清 无法访问
+# DOMAIN-SUFFIX,zhuihd.com
+# >> JetBrains
+# DOMAIN,download.jetbrains.com
+# >> 亚马逊图片
 DOMAIN,images-cn.ssl-images-amazon.com
 
 # DNSPod Public DNS+
-IP-CIDR,119.28.28.28/32,no-resolve
+#IP-CIDR,119.28.28.28/32,no-resolve
 
 # China GEOIP
 GEOIP,CN
