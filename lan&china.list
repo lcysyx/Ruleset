@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,360.cn
 # > Baidu
 DOMAIN-SUFFIX,shifen.com
 DOMAIN-SUFFIX,baidustatic.com
+DOMAIN-SUFFIX,bdimg.com
 # > Youdao
 DOMAIN-SUFFIX,youdao.com
 # > 中国大学MOOC
@@ -52,6 +53,14 @@ DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,aliyun.com
 # > ASUS Router
 DOMAIN,router.asus.com
+# > CDN
+DOMAIN-SUFFIX,staticfile.org # 访问有道词典遇到
+DOMAIN-SUFFIX,cdn.bcebos.com # 百度
+# > ChinaZ站长工具
+DOMAIN-SUFFIX,chinaz.com
+# > 慢慢买购物比价网
+DOMAIN-SUFFIX,manmanbuy.com
+DOMAIN-SUFFIX,zuyushop.com
 
 # China Area Network
 # > 360
