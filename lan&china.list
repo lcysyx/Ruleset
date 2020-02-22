@@ -121,9 +121,9 @@ DOMAIN-SUFFIX,yunjiasu-cdn.net
 # DOMAIN-SUFFIX,bilibili.tv
 # DOMAIN-SUFFIX,hdslb.com
 # > Blizzard
-DOMAIN-SUFFIX,blizzard.com
-DOMAIN-SUFFIX,battle.net
-DOMAIN,blzddist1-a.akamaihd.net
+# DOMAIN-SUFFIX,blizzard.com
+# DOMAIN-SUFFIX,battle.net
+# DOMAIN,blzddist1-a.akamaihd.net
 # > ByteDance
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,pstatp.com
