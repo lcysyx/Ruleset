@@ -49,13 +49,17 @@ DOMAIN-SUFFIX,51cto.com
 DOMAIN-SUFFIX,jianshu.com
 # > 码云
 DOMAIN-SUFFIX,gitee.com
+# > Coding
+DOMAIN-SUFFIX,coding.net
 # > 阿里云
 DOMAIN-SUFFIX,aliyun.com
 # > ASUS Router
 DOMAIN,router.asus.com
 # > CDN
-DOMAIN-SUFFIX,staticfile.org # 访问有道词典遇到
-DOMAIN-SUFFIX,cdn.bcebos.com # 百度
+# >> 访问有道词典遇到
+DOMAIN-SUFFIX,staticfile.org
+# >> 百度
+DOMAIN-SUFFIX,cdn.bcebos.com
 # > ChinaZ站长工具
 DOMAIN-SUFFIX,chinaz.com
 # > 慢慢买购物比价网
