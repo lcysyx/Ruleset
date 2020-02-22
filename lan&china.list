@@ -47,6 +47,9 @@ DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,51cto.com
 DOMAIN-SUFFIX,jianshu.com
+# > cnBeta
+DOMAIN-SUFFIX,cnbeta.com
+DOMAIN-SUFFIX,cnbetacdn.com
 # > 码云
 DOMAIN-SUFFIX,gitee.com
 # > Coding
