@@ -1,3 +1,6 @@
+# CN域名
+DOMAIN-SUFFIX,cn
+
 # My China Domains List
 # > 115
 DOMAIN-SUFFIX,115.com
@@ -5,6 +8,9 @@ DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,icoremail.net
 # > Xiaomi Store
 DOMAIN-SUFFIX,mi.com
+# > Meizu
+DOMAIN-SUFFIX,meizu.com
+DOMAIN-SUFFIX,mzres.com
 # > Bank
 DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,citicbank.com
@@ -347,8 +353,6 @@ DOMAIN-SUFFIX,ip-cdn.com
 # DOMAIN-SUFFIX,worldbank.org
 # DOMAIN-SUFFIX,worldscientific.com
 # > Other
-# >> CN域名
-DOMAIN-SUFFIX,cn
 # >> Cameara 360
 DOMAIN-SUFFIX,360in.com
 DOMAIN-SUFFIX,camera360.com
