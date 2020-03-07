@@ -438,21 +438,21 @@ USER-AGENT,Roam*
 # (The Most Popular Sites)
 # > Apple
 # >> TestFlight
-DOMAIN,testflight.apple.com
+#DOMAIN,testflight.apple.com
 # >> Apple URL Shortener
-DOMAIN-SUFFIX,appsto.re
+#DOMAIN-SUFFIX,appsto.re
 # >> iBooks Store download
-DOMAIN,books.itunes.apple.com
+#DOMAIN,books.itunes.apple.com
 # >> iTunes Store Moveis Trailers
-DOMAIN,hls.itunes.apple.com
+#DOMAIN,hls.itunes.apple.com
 # >> App Store Preview
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
+#DOMAIN,apps.apple.com
+#DOMAIN,itunes.apple.com
 # >> Spotlight
-DOMAIN,api-glb-sea.smoot.apple.com
+#DOMAIN,api-glb-sea.smoot.apple.com
 # >> Dictionary
-DOMAIN,lookup-api.apple.com
-PROCESS-NAME,LookupViewService
+#DOMAIN,lookup-api.apple.com
+#PROCESS-NAME,LookupViewService
 # > Google
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,android.com

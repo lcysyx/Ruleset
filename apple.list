@@ -1,17 +1,40 @@
 # 如无特殊需求可不用加此策略及选择代理，在大部分地区 Apple CDN 可正常工作，使用代理后可能导致「Cannot Connect to iCloud」等问题
-# > Apple
+
+# > 自用添加
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,icloud.com.cn
+
+# > 神机规则Global.list中Apple部分
+# >> TestFlight
+DOMAIN,testflight.apple.com
+# >> Apple URL Shortener
+DOMAIN-SUFFIX,appsto.re
+# >> iBooks Store download
+DOMAIN,books.itunes.apple.com
+# >> iTunes Store Moveis Trailers
+DOMAIN,hls.itunes.apple.com
+# >> App Store Preview
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
+# >> Spotlight
+DOMAIN,api-glb-sea.smoot.apple.com
+# >> Dictionary
+DOMAIN,lookup-api.apple.com
+PROCESS-NAME,LookupViewService
+
+# > 神机规则Apple.list
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,www-cdn.icloud.com.akadns.net
+
+# > Apple IP
 IP-CIDR,17.0.0.0/8
