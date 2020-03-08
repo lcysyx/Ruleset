@@ -1,20 +1,4 @@
-# 添加后面没出现的网站，自用
-# > 神机YouTube.list
-USER-AGENT,com.google.ios.youtube*
-USER-AGENT,YouTube*
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN,youtubei.googleapis.com
-# > 神机YouTubeMusic.list
-USER-AGENT,com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
-# > Twitch
-# >> 神机Twitch.list
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitchcdn.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,jtvnw.net
-# >> 添加.com域名
+# 添加前面的规则未包含但需要走代理的网站，自用
 DOMAIN-SUFFIX,twitch.com
 
 # (DNS Cache Pollution Protection)
