@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,coding.net
 # > 阿里云
 DOMAIN-SUFFIX,mirrors.aliyun.com
+DOMAIN-SUFFIX,mirror.aliyuncs.com
 # > ASUS Router
 DOMAIN,router.asus.com
 # > CDN
