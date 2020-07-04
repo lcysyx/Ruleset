@@ -16,6 +16,3 @@ dns:
     - 1.0.0.1
 experimental:
   interface-name: WLAN
-Proxy: ~
-Proxy Group: ~
-Rule: ~
