@@ -57,13 +57,6 @@ DOMAIN-SUFFIX,mirrors.aliyun.com
 DOMAIN-SUFFIX,mirror.aliyuncs.com
 # > ASUS Router
 DOMAIN,router.asus.com
-# > 国内CDN
-# >> 访问有道词典遇到
-DOMAIN-SUFFIX,staticfile.org
-# >> Bootstrap中文网
-DOMAIN-SUFFIX,bootcss.com
-# >> Layui免费CDN
-DOMAIN-SUFFIX,layuicdn.com
 # > ChinaZ站长工具
 DOMAIN-SUFFIX,chinaz.com
 # > 慢慢买购物比价网
@@ -77,6 +70,15 @@ DOMAIN-SUFFIX,flyertea.com
 DOMAIN-SUFFIX,flyert.com
 # > 51Credit我爱卡
 DOMAIN-SUFFIX,51credit.com
+# > CDN
+# >> 访问有道词典遇到
+DOMAIN-SUFFIX,staticfile.org
+# >> Bootstrap中文网
+DOMAIN-SUFFIX,bootcss.com
+# >> Layui免费CDN
+DOMAIN-SUFFIX,layuicdn.com
+# >> JSDELIVR
+DOMAIN-SUFFIX,jsdelivr.net
 
 # 原地址：https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # China Area Network
