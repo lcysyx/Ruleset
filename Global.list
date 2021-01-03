@@ -1,7 +1,8 @@
-# 添加前面的规则未包含但需要走代理的网站，自用
+# (My Global Rules)
 DOMAIN-SUFFIX,twitch.com
 DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,grammarly.io
+DOMAIN-SUFFIX,momentumdash.com
 
 # (DNS Cache Pollution)
 # > Apple
