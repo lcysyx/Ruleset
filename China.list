@@ -52,9 +52,11 @@ DOMAIN-SUFFIX,cnbetacdn.com
 DOMAIN-SUFFIX,gitee.com
 # > Coding
 DOMAIN-SUFFIX,coding.net
-# > 阿里云
+# > 阿里
 DOMAIN-SUFFIX,mirrors.aliyun.com
 DOMAIN-SUFFIX,mirror.aliyuncs.com
+DOMAIN,log.mmstat.com
+DOMAIN,sycm.mmstat.com
 # > ASUS Router
 DOMAIN,router.asus.com
 # > ChinaZ站长工具
