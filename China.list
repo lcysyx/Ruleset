@@ -1,4 +1,7 @@
 # (My China Rules)
+# > Emby公益服
+DOMAIN-SUFFIX,emby.plusmedia.site
+DOMAIN-SUFFIX,bgp.emby.mickeycloud.com
 # > 微云
 DOMAIN-SUFFIX,weiyun.com
 # > 挖财记账
