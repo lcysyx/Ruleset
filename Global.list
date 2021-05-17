@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,grammarly.io
 DOMAIN-SUFFIX,momentumdash.com
 # > My Enhanced Cryptocurrency Rules
+DOMAIN-SUFFIX,okex.win
+DOMAIN-SUFFIX,ouyi.cc
+DOMAIN-SUFFIX,mxc.com
 DOMAIN-KEYWORD,.okex.
 DOMAIN-KEYWORD,.ouyi.
 DOMAIN-KEYWORD,.binance.
