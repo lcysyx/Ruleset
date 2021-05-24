@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,.ouyi.
 DOMAIN-KEYWORD,.binance.
 DOMAIN-KEYWORD,.huobi.
 DOMAIN-KEYWORD,.mxc.
+# > CERNET blocked sites
 DOMAIN-SUFFIX,f2pool.com
 
 # (DNS Cache Pollution)
