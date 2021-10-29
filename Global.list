@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,f2pool.com
 # > WeChat
 DOMAIN-SUFFIX,sgshort.wechat.com
 DOMAIN-SUFFIX,sgminorshort.wechat.com
+# > hcaptcha (DNS hijacked)
+DOMAIN-SUFFIX,hcaptcha.com
 
 # (DNS Cache Pollution)
 # > Apple
