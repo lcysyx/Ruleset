@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,f2pool.com
 # DOMAIN-SUFFIX,sgminorshort.wechat.com
 # > DNS hijacked
 DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,chuyu.me
 
 # (DNS Cache Pollution)
 # > Apple
