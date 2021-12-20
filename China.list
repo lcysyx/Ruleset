@@ -82,8 +82,6 @@ DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,bootcss.com
 # >> Layui免费CDN
 DOMAIN-SUFFIX,layuicdn.com
-# >> JSDELIVR
-DOMAIN-SUFFIX,jsdelivr.net
 
 # 原地址：https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # China Area Network

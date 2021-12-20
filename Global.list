@@ -19,6 +19,10 @@ DOMAIN-SUFFIX,f2pool.com
 # DOMAIN-SUFFIX,sgminorshort.wechat.com
 # > DNS hijacked
 DOMAIN-SUFFIX,hcaptcha.com
+# > CDN
+# >> JSDELIVR
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,jsdelivr.com
 
 # (DNS Cache Pollution)
 # > Apple
