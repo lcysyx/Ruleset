@@ -229,7 +229,7 @@ DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
 # > Steam
 # DOMAIN-SUFFIX,steamcontent.com
-# DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steampowered.com
 # DOMAIN-SUFFIX,steamstatic.com
 # > Tencent
 USER-AGENT,MicroMessenger%20Client
@@ -538,7 +538,7 @@ DOMAIN-SUFFIX,zhimg.com
 # >> 追高清 无法访问
 # DOMAIN-SUFFIX,zhuihd.com
 # >> JetBrains
-# DOMAIN,download.jetbrains.com
+DOMAIN,download.jetbrains.com
 # >> 亚马逊图片
 DOMAIN,images-cn.ssl-images-amazon.com
 # >> Angruo CDN
