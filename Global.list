@@ -54,6 +54,11 @@ DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
+# > Fastly
+DOMAIN-SUFFIX,freetls.fastly.net
+DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
+DOMAIN,github.global.ssl.fastly.net
+DOMAIN,nytimes.map.fastly.net
 # > Facebook
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
@@ -238,7 +243,6 @@ DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flitto.com
 DOMAIN-SUFFIX,foreignpolicy.com
 DOMAIN-SUFFIX,fortawesome.com
-DOMAIN-SUFFIX,freetls.fastly.net
 DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freewechat.com
 DOMAIN-SUFFIX,freeweibo.com
