@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,maying.co
 DOMAIN-SUFFIX,dotunnel005.com
 DOMAIN-SUFFIX,duyaoss.com
 # > CDN
+DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jsdelivr.com
 # > DNS hijacked
