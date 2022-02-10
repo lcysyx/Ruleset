@@ -55,11 +55,15 @@ DOMAIN-SUFFIX,xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 # > Facebook
-DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,accountkit.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,f8.com
+DOMAIN-SUFFIX,facebookmail.com
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbaddins.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
@@ -69,18 +73,11 @@ DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,readyatdawn.com
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
-IP-CIDR,3.123.36.126/32,no-resolve
-IP-CIDR,35.157.215.84/32,no-resolve
-IP-CIDR,35.157.217.255/32,no-resolve
-IP-CIDR,52.58.209.134/32,no-resolve
-IP-CIDR,54.93.124.31/32,no-resolve
-IP-CIDR,54.162.243.80/32,no-resolve
-IP-CIDR,54.173.34.141/32,no-resolve
-IP-CIDR,54.235.23.242/32,no-resolve
-IP-CIDR,169.45.248.118/32,no-resolve
+DOMAIN-KEYWORD,.facebook.
 # > Twitter
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,periscope.tv
@@ -554,9 +551,6 @@ DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
-# > Facebook
-DOMAIN-KEYWORD,.facebook.
-DOMAIN-SUFFIX,facebookmail.com
 # > Microsoft OneDrive
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
