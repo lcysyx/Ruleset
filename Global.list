@@ -39,15 +39,50 @@ DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,zb.com
 # > Google
+DOMAIN-SUFFIX,abc.xyz
+DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,adsense.com
+DOMAIN-SUFFIX,advertisercommunity.com
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com
+DOMAIN-SUFFIX,androidtv.com
+DOMAIN-SUFFIX,api.ai
+DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,debug.com
+DOMAIN-SUFFIX,dialogflow.com
+DOMAIN-SUFFIX,feedburner.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,itasoftware.com
+DOMAIN-SUFFIX,on2.com
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,schema.org
+DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,tfhub.dev
+DOMAIN-SUFFIX,tiltbrush.com
+DOMAIN-SUFFIX,waymo.com
+DOMAIN-SUFFIX,web.dev
+DOMAIN-SUFFIX,webmproject.org
+DOMAIN-SUFFIX,webrtc.org
+DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,zynamics.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
+DOMAIN-SUFFIX,goog
 # > Microsoft
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,github.blog
@@ -160,7 +195,6 @@ DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,abc.net.au
 DOMAIN-SUFFIX,abebooks.com
 DOMAIN-SUFFIX,ao3.org
-DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apkcombo.com
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apkfind.com
@@ -520,56 +554,6 @@ DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,porn
 
 # (IP Blackhole)
-# > Google
-DOMAIN-SUFFIX,google
-DOMAIN-SUFFIX,abc.xyz
-DOMAIN-SUFFIX,advertisercommunity.com
-DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,androidify.com
-DOMAIN-SUFFIX,autodraw.com
-DOMAIN-SUFFIX,capitalg.com
-DOMAIN-SUFFIX,certificate-transparency.org
-DOMAIN-SUFFIX,chrome.com
-DOMAIN-SUFFIX,chromeexperiments.com
-DOMAIN-SUFFIX,chromestatus.com
-DOMAIN-SUFFIX,chromium.org
-DOMAIN-SUFFIX,creativelab5.com
-DOMAIN-SUFFIX,debug.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,dialogflow.com
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,getmdl.io
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,gmodules.com
-DOMAIN-SUFFIX,godoc.org
-DOMAIN-SUFFIX,golang.org
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,gv.com
-DOMAIN-SUFFIX,gwtproject.org
-DOMAIN-SUFFIX,itasoftware.com
-DOMAIN-SUFFIX,madewithcode.com
-DOMAIN-SUFFIX,material.io
-DOMAIN-SUFFIX,page.link
-DOMAIN-SUFFIX,polymer-project.org
-DOMAIN-SUFFIX,recaptcha.net
-DOMAIN-SUFFIX,shattered.io
-DOMAIN-SUFFIX,synergyse.com
-DOMAIN-SUFFIX,telephony.goog
-DOMAIN-SUFFIX,tensorflow.org
-DOMAIN-SUFFIX,tfhub.dev
-DOMAIN-SUFFIX,tiltbrush.com
-DOMAIN-SUFFIX,waveprotocol.org
-DOMAIN-SUFFIX,waymo.com
-DOMAIN-SUFFIX,webmproject.org
-DOMAIN-SUFFIX,webrtc.org
-DOMAIN-SUFFIX,whatbrowser.org
-DOMAIN-SUFFIX,widevine.com
-DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
 # > Others
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,4bluestones.biz
@@ -631,6 +615,9 @@ DOMAIN,api.steampowered.com
 DOMAIN,store.steampowered.com
 
 # (Region-Restricted Access Denied)
+# > Alphabet
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,golang.org
 # ---(Apple)---
 # > Apple URL Shortener
 DOMAIN-SUFFIX,appsto.re
