@@ -438,10 +438,6 @@ DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,kkmh.com
 # >> 蓝奏云
 DOMAIN-SUFFIX,lanzous.com
-# >> LinkedIn CDN
-DOMAIN-SUFFIX,licdn.com
-# >> LinkedIn 美国IP
-# DOMAIN-SUFFIX,linkedin.com
 # >> Unknown 中国IP
 DOMAIN-SUFFIX,luojilab.com
 # >> 猫眼电影

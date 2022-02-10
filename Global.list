@@ -50,10 +50,28 @@ DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
 # > Microsoft
 DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,streaming.mediaservices.windows.net
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,githubassets.com
+# > OneDrive
+PROCESS-NAME,OneDrive
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN,oneclient.sfx.ms
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,storage.msn.com
 # > Fastly
 DOMAIN-SUFFIX,freetls.fastly.net
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
@@ -253,9 +271,6 @@ DOMAIN-SUFFIX,ftimg.net
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getsync.com
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,globalvoices.org
 DOMAIN-SUFFIX,goo.ne.jp
 DOMAIN-SUFFIX,goodreads.com
@@ -555,15 +570,6 @@ DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
-# > Microsoft OneDrive
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,1drv.ms
-DOMAIN-SUFFIX,blob.core.windows.net
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,storage.live.com
-DOMAIN-SUFFIX,storage.msn.com
-DOMAIN,oneclient.sfx.ms
 # > Others
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,4bluestones.biz
@@ -644,11 +650,16 @@ PROCESS-NAME,LookupViewService
 # > Apple Music Web
 # DOMAIN,beta.music.apple.com
 # ------
+# > Microsoft
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,skype.com
 # > Others
 DOMAIN-SUFFIX,apartmentratings.com
 DOMAIN-SUFFIX,apartments.com
 DOMAIN-SUFFIX,bankmobilevibe.com
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,booktopia.com.au
 DOMAIN-SUFFIX,cccat.io
 DOMAIN-SUFFIX,centauro.com.br
