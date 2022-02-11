@@ -76,8 +76,8 @@ DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,layuicdn.com
-DOMAIN-SUFFIX,pinyuncloud.com // 访问Steam遇到
-DOMAIN-SUFFIX,staticfile.org // 访问有道词典遇到
+DOMAIN-SUFFIX,pinyuncloud.com
+DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
 # 原地址：https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list

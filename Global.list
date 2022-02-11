@@ -520,12 +520,12 @@ DOMAIN,wego.here.com
 DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,golang.org
 # ---(Apple)---
-DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
-DOMAIN-SUFFIX,smoot.apple.com // Spotlight
-DOMAIN,amp-api.podcasts.apple.com // Podcasts
-DOMAIN,beta.music.apple.com // Apple Music Web
-DOMAIN,books.itunes.apple.com // iBooks Store download
-DOMAIN,lookup-api.apple.com // Look Up
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,beta.music.apple.com
+DOMAIN,books.itunes.apple.com
+DOMAIN,lookup-api.apple.com
 # > Web Preview
 DOMAIN,apps.apple.com
 DOMAIN,books.apple.com
