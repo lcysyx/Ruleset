@@ -2,8 +2,6 @@
 # > Emby公益服
 DOMAIN-SUFFIX,emby.plusmedia.site
 DOMAIN-SUFFIX,bgp.emby.mickeycloud.com
-# > 微云
-DOMAIN-SUFFIX,weiyun.com
 # > 挖财记账
 DOMAIN-SUFFIX,wacai.com
 DOMAIN-SUFFIX,wacdn.com
@@ -74,14 +72,13 @@ DOMAIN-SUFFIX,flyert.com
 # > 51Credit我爱卡
 DOMAIN-SUFFIX,51credit.com
 # > CDN
-# >> 访问有道词典遇到
-DOMAIN-SUFFIX,staticfile.org
-# >> 访问Steam遇到
-DOMAIN-SUFFIX,pinyuncloud.com
-# >> Bootstrap中文网
+DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bootcss.com
-# >> Layui免费CDN
+DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,layuicdn.com
+DOMAIN-SUFFIX,pinyuncloud.com // 访问Steam遇到
+DOMAIN-SUFFIX,staticfile.org // 访问有道词典遇到
+DOMAIN-SUFFIX,upaiyun.com
 
 # 原地址：https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # China Area Network
@@ -148,6 +145,14 @@ DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
+# > CDN
+DOMAIN-SUFFIX,ccgslb.com
+DOMAIN-SUFFIX,ccgslb.net
+DOMAIN-SUFFIX,chinanetcenter.com
+DOMAIN-SUFFIX,meixincdn.com
+DOMAIN-SUFFIX,ourdvs.com
+DOMAIN-SUFFIX,staticdn.net
+DOMAIN-SUFFIX,wangsu.com
 # > DiDi
 DOMAIN-SUFFIX,didialift.com
 DOMAIN-SUFFIX,didiglobal.com
@@ -236,28 +241,28 @@ DOMAIN-SUFFIX,steamdb.info
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,WeChat*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
+DOMAIN,cdn.addon.tencentsuite.com
+DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,idqqimg.com
-DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,smtcdns.com
+DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencent-cloud.net
+DOMAIN-SUFFIX,tencentmind.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
-DOMAIN,file-igamecj.akamaized.net
-DOMAIN,cdn.addon.tencentsuite.com
-# > Content Delivery Network
-DOMAIN-SUFFIX,ccgslb.com
-DOMAIN-SUFFIX,ccgslb.net
-DOMAIN-SUFFIX,chinanetcenter.com
-DOMAIN-SUFFIX,meixincdn.com
-DOMAIN-SUFFIX,ourdvs.com
-DOMAIN-SUFFIX,staticdn.net
-DOMAIN-SUFFIX,wangsu.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weiyun.com
+IP-CIDR,119.28.28.28/32,no-resolve
+IP-CIDR,119.29.29.29/32,no-resolve
+IP-CIDR,182.254.116.0/24,no-resolve
 # > IP Query
 DOMAIN-SUFFIX,ip.cn
 DOMAIN-SUFFIX,ip138.com
@@ -308,7 +313,8 @@ DOMAIN-SUFFIX,ip-cdn.com
 # DOMAIN-SUFFIX,springsunday.net
 # DOMAIN-SUFFIX,tjupt.org
 # DOMAIN-SUFFIX,totheglory.im
-# > Other
+
+# > Others
 # >> CN域名
 DOMAIN-SUFFIX,cn
 # >> 115网盘
@@ -544,11 +550,6 @@ DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
 # >> Angruo CDN
 DOMAIN,cdn.angruo.com
-
-# Tencent
-IP-CIDR,119.28.28.28/32,no-resolve
-IP-CIDR,119.29.29.29/32,no-resolve
-IP-CIDR,182.254.116.0/24,no-resolve
 
 # > Router
 DOMAIN,router.asus.com

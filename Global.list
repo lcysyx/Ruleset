@@ -12,7 +12,10 @@ DOMAIN-SUFFIX,maying.co
 DOMAIN-SUFFIX,dotunnel005.com
 DOMAIN-SUFFIX,duyaoss.com
 # > CDN
+DOMAIN-SUFFIX,ajax.aspnetcdn.com
+DOMAIN-SUFFIX,ajax.cloudflare.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
+DOMAIN-SUFFIX,code.jquery.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jsdelivr.com
 # > Development
