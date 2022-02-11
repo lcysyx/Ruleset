@@ -76,6 +76,8 @@ DOMAIN-SUFFIX,51credit.com
 # > CDN
 # >> 访问有道词典遇到
 DOMAIN-SUFFIX,staticfile.org
+# >> 访问Steam遇到
+DOMAIN-SUFFIX,pinyuncloud.com
 # >> Bootstrap中文网
 DOMAIN-SUFFIX,bootcss.com
 # >> Layui免费CDN
