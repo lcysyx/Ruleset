@@ -29,3 +29,4 @@ DOMAIN,update.googleapis.com
 DOMAIN,translate.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
+DOMAIN-SUFFIX,googleapis-cn.com
