@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,kubernetes.io
 DOMAIN-SUFFIX,stackoverflow.com
 # > DNS hijacked
 DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,ingest.sentry.io
 # > Keywords
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,hk
