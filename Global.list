@@ -59,6 +59,8 @@ DOMAIN-SUFFIX,nyaa.si
 # > Others
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,bitwarden.net
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,githubassets.com
