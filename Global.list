@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,istio.io
 DOMAIN-SUFFIX,knative.dev
 DOMAIN-SUFFIX,kubernetes.io
+DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,stackoverflow.com
 # > DNS hijacked
 DOMAIN-SUFFIX,hcaptcha.com
