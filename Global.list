@@ -15,11 +15,27 @@ DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jsdelivr.com
+# > Development
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,istio.io
+DOMAIN-SUFFIX,knative.dev
+DOMAIN-SUFFIX,kubernetes.io
+DOMAIN-SUFFIX,stackoverflow.com
 # > DNS hijacked
 DOMAIN-SUFFIX,hcaptcha.com
-# > Game
-DOMAIN-SUFFIX,twitch.com
 # > Keywords
+DOMAIN-SUFFIX,eu
+DOMAIN-SUFFIX,hk
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,sg
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,uk
+DOMAIN-SUFFIX,us
+DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,mil
@@ -47,6 +63,7 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,grammarly.io
 DOMAIN-SUFFIX,momentumdash.com
+DOMAIN-SUFFIX,twitch.com
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xvideos.com
