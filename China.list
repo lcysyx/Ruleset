@@ -81,6 +81,8 @@ DOMAIN-SUFFIX,layuicdn.com
 DOMAIN-SUFFIX,pinyuncloud.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
+# > 跟踪分析
+DOMAIN-SUFFIX,lotuseed.com
 
 # 原地址：https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # China Area Network
