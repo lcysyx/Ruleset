@@ -239,10 +239,7 @@ DOMAIN-SUFFIX,sogo.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
 # > Steam
-DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamdb.info
-# DOMAIN-SUFFIX,steamcontent.com
-# DOMAIN-SUFFIX,steamstatic.com
 # > Tencent
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,WeChat*
