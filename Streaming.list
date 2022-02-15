@@ -11,9 +11,6 @@ DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitch-ext.rootonline.de
 
 # (Music)
-# > Apple Music Radio
-# DOMAIN,radio.itunes.apple.com
-# DOMAIN,tv.applemusic.com
 # > Deezer
 USER-AGENT,Deezer*
 DOMAIN-SUFFIX,deezer.com
@@ -89,14 +86,17 @@ DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 # DOMAIN,www.amazon.com
 DOMAIN-KEYWORD,avoddashs
+# > Apple Music TV
+DOMAIN,tv.applemusic.com
 # > Apple TV
-# DOMAIN,linear.tv.apple.com
-# DOMAIN,play-edge.itunes.apple.com
-# DOMAIN,uts-api.itunes.apple.com
+DOMAIN,linear.tv.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN,uts-api.itunes.apple.com
 # > Bahamut
 # USER-AGENT,Anime*
 # DOMAIN-SUFFIX,bahamut.com.tw
 # DOMAIN-SUFFIX,gamer.com.tw
+# DOMAIN,bahamut.akamaized.net
 # DOMAIN,gamer-cds.cdn.hinet.net
 # DOMAIN,gamer2-cds.cdn.hinet.net
 # > BBC iPlayer
@@ -255,20 +255,9 @@ DOMAIN-SUFFIX,smartmediarep.com
 # DOMAIN-SUFFIX,netflixdnstest7.com
 # DOMAIN-SUFFIX,netflixdnstest8.com
 # DOMAIN-SUFFIX,netflixdnstest9.com
+# DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 # DOMAIN-KEYWORD,dualstack.apiproxy-
-# DOMAIN-KEYWORD,dualstack.ichnaea-web-
-# IP-CIDR,23.246.0.0/18,no-resolve
-# IP-CIDR,37.77.184.0/21,no-resolve
-# IP-CIDR,45.57.0.0/17,no-resolve
-# IP-CIDR,64.120.128.0/17,no-resolve
-# IP-CIDR,66.197.128.0/17,no-resolve
-# IP-CIDR,108.175.32.0/20,no-resolve
-# IP-CIDR,192.173.64.0/18,no-resolve
-# IP-CIDR,198.38.96.0/19,no-resolve
-# IP-CIDR,198.45.48.0/20,no-resolve
-# IP-CIDR,34.210.42.111/32,no-resolve
-# IP-CIDR,52.89.124.203/32,no-resolve
-# IP-CIDR,54.148.37.5/32,no-resolve
+# GEOIP,netflix,no-resolve
 # > niconico
 USER-AGENT,Niconico*
 DOMAIN-SUFFIX,dmc.nico
@@ -313,7 +302,7 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-KEYWORD,-tiktokcdn-com
+DOMAIN-KEYWORD,tiktokcdn-
 # > TVer
 USER-AGENT,TVer-Release*
 DOMAIN-SUFFIX,tver.jp
