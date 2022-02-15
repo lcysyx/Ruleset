@@ -559,6 +559,10 @@ DOMAIN,router.asus.com
 DOMAIN,tplogin.cn
 
 # Local Area Network
+DOMAIN-SUFFIX,ip6-localhost
+DOMAIN-SUFFIX,ip6-loopback
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,localhost
 IP-CIDR,10.0.0.0/8
 IP-CIDR,100.64.0.0/10
 IP-CIDR,127.0.0.0/8
