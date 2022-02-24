@@ -554,6 +554,9 @@ DOMAIN,images-cn.ssl-images-amazon.com
 # >> Angruo CDN
 DOMAIN,cdn.angruo.com
 
+# > 网络登录认证
+DOMAIN-SUFFIX,msftconnecttest.com
+
 # > Router
 DOMAIN,router.asus.com
 DOMAIN,tplogin.cn
