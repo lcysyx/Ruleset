@@ -238,7 +238,22 @@ DOMAIN-SUFFIX,v-56.com
 DOMAIN-SUFFIX,sogo.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
-# > Steam
+# > SteamCN (https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/ChinaDomain.list)
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN,csgo.wmsj.cn
+DOMAIN,dota2.wmsj.cn
+DOMAIN,wmsjsteam.com
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.pinyuncloud.com
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,steampowered.com.8686c.com
+DOMAIN,steamstatic.com.8686c.com
+# > SteamDB
 DOMAIN-SUFFIX,steamdb.info
 # > Tencent
 USER-AGENT,MicroMessenger%20Client
