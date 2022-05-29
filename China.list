@@ -239,6 +239,7 @@ DOMAIN-SUFFIX,sogo.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
 # > SteamCN (https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/ChinaDomain.list)
+DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamchina.com
