@@ -296,7 +296,7 @@ DOMAIN-SUFFIX,ip-cdn.com
 # DOMAIN,ip.istatmenus.app
 # DOMAIN,sms.imagetasks.com
 # > Speed Test
-# DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtest.net
 # DOMAIN-SUFFIX,netspeedtestmaster.com
 # DOMAIN,speedtest.macpaw.com
 # > Private Tracker
