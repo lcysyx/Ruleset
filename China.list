@@ -577,6 +577,7 @@ DOMAIN-SUFFIX,msftncsi.com
 # > Router
 DOMAIN,router.asus.com
 DOMAIN,tplogin.cn
+DOMAIN,router.ctc
 
 # Local Area Network
 DOMAIN-SUFFIX,ip6-localhost
