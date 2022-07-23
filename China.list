@@ -286,6 +286,7 @@ IP-CIDR,182.254.116.0/24,no-resolve
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipv6-test.com
 DOMAIN-SUFFIX,ipw.cn
+DOMAIN-SUFFIX,ip.zxinc.org
 DOMAIN-SUFFIX,ip.cn
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ipip.net
