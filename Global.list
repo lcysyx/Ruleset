@@ -56,6 +56,8 @@ DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,storage.msn.com
+# > PikPak
+DOMAIN,access.mypikpak.com
 # > Torrents
 DOMAIN-KEYWORD,rarbg
 DOMAIN-SUFFIX,nyaa.si
