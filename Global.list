@@ -58,7 +58,6 @@ DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,storage.msn.com
 # > PikPak
 DOMAIN,access.mypikpak.com
-DOMAIN,api-drive.mypikpak.com
 # > Torrents
 DOMAIN-KEYWORD,rarbg
 DOMAIN-SUFFIX,nyaa.si
